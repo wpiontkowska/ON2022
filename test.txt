@@ -1,6 +1,0 @@
-test
-test 2
-
-dokonano zmiany testowej3
-
-to jest 6 linia
