@@ -1,1 +1,3 @@
 test
+
+linijka dodana na komputerze (lokalnie)
